@@ -3,7 +3,6 @@
 ## 软件工程师—AiRo
 
 我对新技术有强烈的好奇心，乐于接受挑战并不断学习成长。
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 ### **技术栈:**
 
