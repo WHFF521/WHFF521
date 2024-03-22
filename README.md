@@ -13,5 +13,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WHFF521&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WHFF521&layout=compact&langs_count=6)
